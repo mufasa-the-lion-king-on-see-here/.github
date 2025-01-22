@@ -30,69 +30,254 @@ W𝚑𝚎𝚛𝚎 𝚝𝚘 𝚆𝚊𝚝𝚌𝚑 **Mufasa: The Lion King** 𝚕�
 
 **Mufasa: The Lion King** box office collection
 
+<div class="content active" id="summary" bis_skin_checked="1">
+<h2>Synopsis</h2><p>Mufasa is an orphaned cub, lost and alone until he meets a sympathetic lion named Taka—the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destiny, and their bonds will be tested as they work together to evade a threatening and deadly foe.
+</p><h2>Metrics</h2><p>
+</p><center><table id="movie_ratings">
+<tbody><tr class="heading"></tr></tbody></table>
+</center><table>
+<tbody><tr><td><b>Opening&nbsp;Weekend:</b></td><td>$35,409,365 (16.9% of total gross)</td></tr>
+<tr><td><b>Legs:</b></td><td>5.70 (domestic box office/biggest weekend)</td></tr>
+<tr><td><b>Domestic Share:</b></td><td>35.3% (domestic box office/worldwide)</td></tr>
+<tr><td><b>Production&nbsp;Budget:</b></td><td>$200,000,000 (worldwide box office is 3.0 times production budget)</td></tr>
+<tr><td><b>Theater counts:</b></td><td>4,100 opening theaters/4,100 max. theaters, 4.7 weeks average run per theater</td></tr>
+<tr>
+<td><b>Infl. Adj. Dom. BO</b></td>
+<td>$209,726,446</td>
+</tr>
+</tbody></table>
+	
 
-## **Mufasa: The Lion King** 2024 – A New Adventure and the Rise of a King
+<h3 id="not1" style="text-align: center;border-bottom: none;margin: 24px auto 4px auto;">Latest Ranking on Cumulative Box Office Lists</h3>
+<div id="page_filling_chart" bis_skin_checked="1">
+<center>
+<table>
+<tbody><tr><th>Record</th><th>Rank</th><th>Amount</th></tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/cumulative/all-time/201">All Time Domestic Box Office (Rank 201-300)</a></td>
+<td align="right">223</td>
+<td align="right">$209,726,446</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/international/all-movies/cumulative/all-time/201">All Time International Box Office (Rank 201-300)</a></td>
+<td align="right">203</td>
+<td align="right">$384,794,931</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/worldwide/all-movies/cumulative/all-time/101">All Time Worldwide Box Office (Rank 101-200)</a></td>
+<td align="right">190</td>
+<td align="right">$594,521,377</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/theatrical-distributors/walt-disney">All Time Domestic Box Office for Walt Disney Movies</a></td>
+<td align="right">67</td>
+<td align="right">$209,726,446</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/international/all-movies/theatrical-distributors/walt-disney">All Time International Box Office for Walt Disney Movies</a></td>
+<td align="right">54</td>
+<td align="right">$384,794,931</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/worldwide/all-movies/theatrical-distributors/walt-disney">All Time Worldwide Box Office for Walt Disney Movies</a></td>
+<td align="right">57</td>
+<td align="right">$594,521,377</td>
+</tr>
+</tbody></table>
+<p>See the <a href="#box-office" class=" inactive">Box Office</a> tab (Domestic) and <a href="#international" class=" inactive">International</a> tab (International and Worldwide) for more Cumulative Box Office Records.
+</p></center>
+</div>
+<br>
 
 
-Disney is once again bringing a magical story to life with the release of **Mufasa: The Lion King** in 2024. This film serves as a prequel to the legendary "The Lion King," capturing the untold story of Mufasa’s transformation from a young cub to the wise and noble king of the Pride Lands. Directed by Academy Award winner Barry Jenkins, renowned for his masterpiece "Moonlight," the film promises a deeply emotional journey and a fresh perspective on one of Disney’s most beloved characters.
 
-### Story Overview
 
-Mufasa: The Lion King takes audiences back to the early years of Mufasa’s life. As an orphan, Mufasa faces tremendous challenges in a harsh and unforgiving savanna. With the help of loyal friends like [new supporting character names if available], he learns about courage, sacrifice, and the importance of family. Along the way, he discovers the true meaning of leadership and responsibility. The film also sheds light on his evolving relationship with his ambitious younger brother, Taka (later known as Scar), and the pivotal moments that shaped the Pride Lands’ destiny.
+<h2>Movie Details</h2>
+<table>
+<tbody><tr><td><b>Domestic Releases:</b></td>
+<td>December 20th, 2024 (Wide) by <a href="/market/distributor/Walt-Disney">Walt Disney</a><br>December 20th, 2024 (IMAX) by <a href="/market/distributor/Walt-Disney">Walt Disney</a></td></tr>
+<tr><td><b>International Releases:</b></td>
+<td>December 18th, 2024 (Wide) (<a href="/movie/Mufasa-The-Lion-King-(2024)/Belgium#tab=summary">Belgium</a>)
+<br>December 18th, 2024 (Wide) (<a href="/movie/Mufasa-The-Lion-King-(2024)/Finland#tab=summary">Finland</a>)
+<br>December 18th, 2024 (Wide), released as <i>Mufasa: Le Roi Lion</i> (<a href="/movie/Mufasa-The-Lion-King-(2024)/France#tab=summary">France</a>)
+<br>December 18th, 2024 (Wide) (<a href="/movie/Mufasa-The-Lion-King-(2024)/Indonesia#tab=summary">Indonesia</a>)
+<br>December 18th, 2024 (Wide) (<a href="/movie/Mufasa-The-Lion-King-(2024)/Netherlands#tab=summary">Netherlands</a>)
+<br><a href="#international" class=" inactive">... Show all releases</a>
+</td></tr>
+<tr><td><b><a href="#tab=video-sales">Video&nbsp;Release:</a></b></td>
+<td>2025 by <a href="/home-market/distributor/Disney-Plus">Disney+</a></td></tr>
+<tr><td><b>MPAA&nbsp;Rating:</b></td>
+<td><a href="/market/mpaa-rating/PG-(US)">PG</a> for action/violence, peril and some thematic elements.<br>(Rating bulletin 2852 (cert #55021), 9/18/2024)</td></tr>
+<tr><td><b>Running Time:</b></td>
+<td>118 minutes</td></tr>
+<tr><td><b>Franchise:</b></td>
+<td><a href="/movies/franchise/Lion-King-The">The Lion King</a></td></tr>
+<tr><td><b>Comparisons:</b></td>
+<td><a href="/movies/custom-comparisons/Mufasa-The-Lion-King-(2024)/Despicable-Me-4-(2024)">vs. Despicable Me 4</a><br><a href="/movies/custom-comparisons/Mufasa-The-Lion-King-(2024)">Create your own comparison chart…</a></td></tr>
+<tr><td><b>Keywords:</b></td>
+<td><a href="/movies/keyword/Family-Musical">Family Musical</a>, <a href="/movies/keyword/Animal-Lead">Animal Lead</a>, <a href="/movies/keyword/Talking-Animals">Talking Animals</a>, <a href="/movies/keyword/Prequel">Prequel</a></td></tr>
+<tr><td><b>Source:</b></td><td><a href="/market/source/Original-Screenplay">Original Screenplay</a></td></tr>
+<tr><td><b>Genre:</b></td><td><a href="/market/genre/Musical">Musical</a></td></tr>
+<tr><td><b>Production&nbsp;Method:</b></td><td><a href="/market/production-method/Animation-and-Live-Action">Animation/Live Action</a></td></tr>
+<tr><td><b>Creative&nbsp;Type:</b></td><td><a href="/market/creative-type/Kids-Fiction">Kids Fiction</a></td></tr>
+<tr><td><b>Production/Financing Companies:</b></td>
+<td><a href="/movies/production-company/Walt-Disney-Pictures">Walt Disney Pictures</a></td></tr>
+<tr><td><b>Production Countries:</b></td>
+<td><a href="/United-States/movies">United States</a></td></tr>
+<tr><td><b>Languages:</b></td>
+<td><a href="/language/English/movies">English</a></td></tr>
+</tbody></table>
 
-The narrative explores key events such as:
-
-- **Mufasa’s survival as a cub**: How he overcomes adversity after being orphaned.
-
-- **Mentorship**: His bond with wise elders who guide him.
-
-- **The rise of tensions with Taka**: The beginning of their rivalry and its emotional weight.
-
-### Cast and Crew Highlights
-
-The film boasts an exceptional voice cast, including:
-
-- **Aaron Pierre** as the voice of young Mufasa
-
-- **Kelvin Harrison Jr**. as Taka (young Scar)
-
-- **Additional Cast Members (if revealed)**: Bringing life to new and familiar characters.
-
-Under Barry Jenkins’ visionary direction, the film combines emotional storytelling with state-of-the-art visuals. The stunning animation and lifelike depictions of African landscapes build upon the technological breakthroughs seen in the 2019 live-action adaptation of "The Lion King." The production team includes [notable producers or animators] who ensure the film delivers Disney’s trademark quality."
-
-### What Makes This Film Special
-
-1. **An Untold Origin Story**
-This prequel dives deep into Mufasa’s backstory, exploring his struggles and triumphs that ultimately shaped him into a great leader. By learning about his early experiences, fans will gain a richer understanding of the values and decisions that defined him in "The Lion King."
-
-2. **Dynamic Relationships**
-The film delves into the complex bond between Mufasa and Taka, adding depth to their sibling rivalry. Viewers will witness how jealousy and misunderstanding led to Taka’s transformation into Scar, setting the stage for the events of the original film.
-
-3. **Spectacular Visuals and Sound**
-Utilizing advanced CGI technology, the film delivers breathtaking scenery, realistic animations, and a powerful musical score. With original compositions and nods to classic songs from "The Lion King," the soundtrack promises to be as unforgettable as the visuals.
-
-4. **Exploration of the Pride Lands**
-Beyond the main characters, the film expands the world of the Pride Lands, introducing new animal communities, landscapes, and traditions, enriching the lore of the franchise.
-
-### Release Date
-
-Disney has announced that **Mufasa: The Lion King** will premiere in theaters on **July 5, 2024**. This release is expected to draw in fans of all ages, from long-time admirers of "The Lion King" to new audiences discovering the Pride Lands for the first time.
-
-### Why You Should Watch It
-
-For Disney fans, this film is a nostalgic journey that rekindles fond memories. For the new generation, **Mufasa: The Lion King** serves as an introduction to the legendary world of "The Lion King." By exploring Mufasa’s journey, it provides a deeper appreciation for his role in the "The Lion King" universe. The combination of an emotional storyline, mesmerizing animation, and captivating music makes this film a must-watch.
-
-In addition to its entertainment value, the film offers:
-
-- **Inspiration**: Mufasa’s perseverance through hardship resonates universally.
-
-- **Family-Friendly Themes**: A perfect outing for families to enjoy together.
-
-- **Cultural Significance**: A celebration of African-inspired landscapes, music, and storytelling.
-
-### Final Thoughts
-
-Disney’s **Mufasa: The Lion King** is more than just a prequel—it’s a celebration of courage, family, and the timeless values that make "The Lion King" a cherished classic. With all the elements it brings to the table, **Mufasa: The Lion King** 2024 promises not only to entertain but also to deliver valuable life lessons. Don’t miss the chance to witness the rise of one of Disney’s most iconic characters when it hits theaters in 2024.
+<h3 id="not1" style="text-align: center;border-bottom: none;margin: 24px auto 4px auto;">Ranking on other Records and Milestones</h3>
+<div id="page_filling_chart" bis_skin_checked="1">
+<center>
+<table>
+<tbody><tr><th>Record</th><th>Rank</th><th>Amount</th><th>Chart<br>Date</th><th>Days In<br>Release</th></tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-monday">Biggest 5th Monday</a></td>
+<td align="right">20</td>
+<td align="right">$3,372,519</td>
+<td>Jan 20, 2025</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-sunday">Biggest 5th Sunday</a></td>
+<td align="right">42</td>
+<td align="right">$4,335,578</td>
+<td>Jan 19, 2025</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/5th">Biggest Domestic 5th Weekend</a></td>
+<td align="right">76</td>
+<td align="right">$12,055,589</td>
+<td>Jan 17, 2025</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-saturday">Biggest 5th Saturday</a></td>
+<td align="right">71</td>
+<td align="right">$5,151,430</td>
+<td>Jan 18, 2025</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/fastest/fastest-to-100m/101">Fastest to $100m</a></td>
+<td align="right">171</td>
+<td align="right">$202,018,349</td>
+<td>Jan 17, 2025</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/fastest/fastest-to-150m/101">Fastest to $150m</a></td>
+<td align="right">160</td>
+<td align="right">$202,018,349</td>
+<td>Jan 17, 2025</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/fastest/fastest-to-200m/101">Fastest to $200m</a></td>
+<td align="right">160</td>
+<td align="right">$202,018,349</td>
+<td>Jan 17, 2025</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/fastest/fastest-to-50m/101">Fastest to $50m</a></td>
+<td align="right">198</td>
+<td align="right">$202,018,349</td>
+<td>Jan 17, 2025</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-month/january">Biggest Domestic January Weekend</a></td>
+<td align="right">71</td>
+<td align="right">$23,461,633</td>
+<td>Jan 3, 2025</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/3rd-friday">Biggest 3rd Friday</a></td>
+<td align="right">98</td>
+<td align="right">$7,597,526</td>
+<td>Jan 3, 2025</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-thursday">Biggest 2nd Thursday</a></td>
+<td align="right">46</td>
+<td align="right">$6,248,851</td>
+<td>Jan 2, 2025</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-wednesday">Biggest 2nd Wednesday</a></td>
+<td align="right">16</td>
+<td align="right">$10,372,135</td>
+<td>Jan 1, 2025</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-tuesday">Biggest 2nd Tuesday</a></td>
+<td align="right">57</td>
+<td align="right">$7,266,687</td>
+<td>Dec 31, 2024</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-monday">Biggest 2nd Monday</a></td>
+<td align="right">63</td>
+<td align="right">$7,689,599</td>
+<td>Dec 30, 2024</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-month/december">Biggest Domestic December Weekend</a></td>
+<td align="right">53</td>
+<td align="right">$36,804,122</td>
+<td>Dec 27, 2024</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-genre/musical">Top Musical Weekend Domestic</a></td>
+<td align="right">17</td>
+<td align="right">$36,804,122</td>
+<td>Dec 27, 2024</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/1st-thursday">Biggest 1st Thursday</a></td>
+<td align="right">36</td>
+<td align="right">$12,007,417</td>
+<td>Dec 26, 2024</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/thursday">Biggest Domestic Thursday</a></td>
+<td align="right">79</td>
+<td align="right">$12,007,417</td>
+<td>Dec 26, 2024</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/1st-wednesday">Biggest 1st Wednesday</a></td>
+<td align="right">25</td>
+<td align="right">$14,722,175</td>
+<td>Dec 25, 2024</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/wednesday">Biggest Domestic Wednesday</a></td>
+<td align="right">64</td>
+<td align="right">$14,722,175</td>
+<td>Dec 25, 2024</td>
+<td align="right">6</td>
+</tr>
+</tbody></table>
+</center>
+<br>
+</div>
+</div>
 
 **Mufasa: The Lion King** 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 𝚍𝚊𝚝𝚎
 
